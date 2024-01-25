@@ -1,0 +1,5 @@
+<!-- res/values-es/strings.xml -->
+<resources>
+    <string name="movie_details_title">Detalles de la Película</string>
+
+</resources>
