@@ -115,7 +115,7 @@ class MainActivity : ComponentActivity() {
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(16.dp)
+                .padding(18.dp)
         ) {
 
             IconButton(onClick = { onBackClick.invoke() }) {

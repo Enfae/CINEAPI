@@ -8,11 +8,11 @@ android {
     namespace = "com.example.cinegs"
     compileSdk = 34
 
-    defaultConfig { kj
+    defaultConfig {
         applicationId = "com.example.cinegs"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
+        versionCode = 2
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"

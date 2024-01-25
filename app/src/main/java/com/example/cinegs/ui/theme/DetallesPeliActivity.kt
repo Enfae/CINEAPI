@@ -106,7 +106,7 @@ fun DetalleBasico(movie: Movie) {
             modifier = Modifier
                 .align(Alignment.CenterHorizontally)
         )
-        Spacer(modifier = Modifier.height(8.dp))
+        Spacer(modifier = Modifier.height(9.dp))
         Text(
             text = movie.overview,
             style = MaterialTheme.typography.bodySmall,
